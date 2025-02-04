@@ -4,21 +4,21 @@
 
 ### Personal
     
-    Every user has a personal github account. Each personal account uses either GitHub Free or GitHub Pro. All personal accounts can own an unlimited number of public and private repositories, with an unlimited number of collaborators on those repositories. If you use GitHub Free, private repositories owned by your personal account have a limited feature set.
+Every user has a personal github account. Each personal account uses either GitHub Free or GitHub Pro. All personal accounts can own an unlimited number of public and private repositories, with an unlimited number of collaborators on those repositories. If you use GitHub Free, private repositories owned by your personal account have a limited feature set.
 
 ### Organization
 
-   Shared accounts where an unlimited number of people can collaborate. Unlike personal/user accounts, permissions with organization accounts are done with a tiered approach.  Similar to personal accounts, organizations can own resources such as repositories, packages, and projects. However, you can't sign into an organization. Instead, each person signs into their own personal account, and any actions the person takes on organization resources are attributed to their personal account. Each personal account can be a member of multiple organizations.
+Shared accounts where an unlimited number of people can collaborate. Unlike personal/user accounts, permissions with organization accounts are done with a tiered approach.  Similar to personal accounts, organizations can own resources such as repositories, packages, and projects. However, you can't sign into an organization. Instead, each person signs into their own personal account, and any actions the person takes on organization resources are attributed to their personal account. Each personal account can be a member of multiple organizations.
 
-    The personal accounts within an organization can be given different roles in the organization to grant different levels of access to the organization and its data. All members can collaborate with each other in repositories and projects. But only organization owners and security managers can manage the settings for the organization and control access to the organization's data with sophisticated security and administrative features.
+The personal accounts within an organization can be given different roles in the organization to grant different levels of access to the organization and its data. All members can collaborate with each other in repositories and projects. But only organization owners and security managers can manage the settings for the organization and control access to the organization's data with sophisticated security and administrative features.
 
 ### Enterprise
 
-    Enterprise accounts on GitHub.com allow administrators to centrally manage policies and billing for multiple organizations and enable inner sourcing between their organizations. An enterprise account must have a handle, like an organization or user account on GitHub.
+Enterprise accounts on GitHub.com allow administrators to centrally manage policies and billing for multiple organizations and enable inner sourcing between their organizations. An enterprise account must have a handle, like an organization or user account on GitHub.
 
-    Organizations are shared accounts for enterprise members to collaborate across many projects at once. In the enterprise settings, enterprise owners can invite existing organizations to join your enterprise account, transfer organizations between enterprise accounts, or create new organizations.
-    
-    Your enterprise account allows you to manage and enforce policies for all the organizations owned by the enterprise. Each enterprise policy controls the options available for a policy at the organization level.
+Organizations are shared accounts for enterprise members to collaborate across many projects at once. In the enterprise settings, enterprise owners can invite existing organizations to join your enterprise account, transfer organizations between enterprise accounts, or create new organizations.
+
+Your enterprise account allows you to manage and enforce policies for all the organizations owned by the enterprise. Each enterprise policy controls the options available for a policy at the organization level.
 
 ## Github Plans
 
